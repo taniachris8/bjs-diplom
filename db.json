@@ -60,6 +60,30 @@
         "EUR": 600,
         "NTC": 90000
       }
+    },
+    {
+      "created_at": "2025-07-03T11:04:37.274Z",
+      "login": "tania@gmail.com",
+      "password": "demo",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2025-07-03T11:06:19.666Z",
+      "login": "yarin@gmail.com",
+      "password": "demo",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {

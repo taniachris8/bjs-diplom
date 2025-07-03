@@ -44,3 +44,4 @@ class UserForm {
     return { login, password };
   }
 }
+

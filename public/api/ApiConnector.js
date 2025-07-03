@@ -113,6 +113,7 @@ class ApiConnector {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
       });
+      console.log('response',response)
       const result = await ApiConnector.parseResponseBody(response);
       return result;
     };
